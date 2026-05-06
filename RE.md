@@ -10,6 +10,7 @@ courses/learning material for RE
 - https://github.com/0xZ0F/Z0FCourse_ReverseEngineering
 - https://0xinfection.github.io/reversing/
 - https://www.youtube.com/watch?v=d4Pgi5XML8E&list=PLIfB3Ur76mFghKTtY5v7y94Fn8m1qoNV-
+- [Modify pseudocode](https://www.youtube.com/watch?v=N_3AGB9Vf9E&list=PLKwUZp9HwWoDDBPvoapdbJ1rdofowT67z)
 - https://godbolt.org/ + https://dogbolt.org/ (vary architecture + vary decompiler) and feed multiple binary
 - ctf
 - https://users.umiacs.umd.edu/~tudor/courses/ENEE757/Fall15/misc/gdb_tutorial.html
