@@ -26,3 +26,8 @@ courses/learning material for RE
 - [OALabs](https://www.patreon.com/collection/1259251?view=expanded)
 - [PE arc](https://www.youtube.com/playlist?list=PLHJns8WZXCdstHnLaxcz-CO74fO4Q88_8) [PE arc big](https://x.com/tetsuoai/status/1976117137178833341/photo/1)| [PE format graph](https://onlyf8.com/pe-format)
 - [malware analysis series](https://exploitreversing.com/wp-content/uploads/2025/01/mas_10.pdf)
+## code example
+- [beginners-C-program-examples](https://github.com/gouravthakur39/beginners-C-program-examples)
+- [c-example-code](https://github.com/portfoliocourses/c-example-code)
+- [C-Programming-Example](https://github.com/developerinsider/C-Programming-Example)
+- [The-Ultimate-C-Programming-Course](https://github.com/CodeWithHarry/The-Ultimate-C-Programming-Course)
