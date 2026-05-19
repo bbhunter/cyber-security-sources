@@ -15,3 +15,4 @@ how to build infrastructure for redteaming
 - https://github.com/RedTeamOperations/Red-Infra-Craft
 - https://medium.com/@frsfaisall/mastering-modern-red-teaming-infrastructure-leveraging-old-domains-for-reputation-based-bypasses-1fd8cc1768f7
 - https://github.com/attacksurge/ax
+- https://hunt.io/glossary/c2-channels
